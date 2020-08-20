@@ -26,7 +26,7 @@
   <a href="#with">Built With</a> •
   <a href="#setup">Setup</a> •
   <a href="#howto">How to Start</a> •
-  <a href="#authors">Authors</a> •
+  <a href="#authors">Author</a> •
 </p>
 
 ## About <a name = "about"></a>
